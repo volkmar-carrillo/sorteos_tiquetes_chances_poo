@@ -6,4 +6,5 @@ Ejercicio de Aplicación a la Programación Orientada a Objetos, Manejo de estru
   2. propuesta_solucion_ejercicio.pdf contiene un diagrama especificado de como tratar las estructuras de datos ArrayList en Java para el presente ejercicio de aplicación
   
  By: Volkmar A Carrillo P
+ 
  e-mail: carrillo.ramklov@gmail.com
